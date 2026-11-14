@@ -2,3 +2,4 @@ Application Name: DemoApp
 Version: 1.0
 Login: Working
 Payment: Working
+Reports: Available
