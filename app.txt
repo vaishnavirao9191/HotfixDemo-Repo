@@ -1,6 +1,6 @@
 Application Name: DemoApp
-Version: 1.0
-Login: Working
+Version: 1.1
+Login: Fixed
 Payment: Working
 Reports: Available
-Release Status: Readu for testing
+Release Status: Ready for testing
